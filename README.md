@@ -1,2 +1,2 @@
-# coursera-test
-HTML, CSS, Javascript
+# Academic Journals
+Upcoming Journals:
